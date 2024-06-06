@@ -4,6 +4,3 @@
 
 - <b>Azure / Cloud Project</b>
   - [SOC/HoneyNet created in Azure(https://github.com/VinceAtom/Cloud-HoneyNet)
-
-
-Here are some ideas to get you started:
