@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vincent! Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Vincent! A Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
